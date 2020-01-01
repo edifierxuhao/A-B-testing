@@ -11,4 +11,4 @@ I used pandas, numpy, random, matplotlib to do the analysis, and used jupyter no
 I followed the project instraction step by step to calculate probablilty, set the null hypothese, ran an A-B test, visualization result .
 
 ## License
-The datasets and steps are all from Udacity.
+This project is Hao Xu's Udacity Nanodegree project. The datasets and instractions are all from udacity. 
